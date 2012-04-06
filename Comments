@@ -1,0 +1,3 @@
+Just from looking at your code, everything seems to be in order. Following the Unix philosophy, you might want to want to follow the Rule of Composition, which states design programs to be better connected with other programs. 
+
+So instead of just changing numbers,expand the function to do a search for a given sequence and change the second value to whatever the programer needs. This will make your change grade more general, allowing you to use it for other larger programs.
